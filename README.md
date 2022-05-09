@@ -1,4 +1,4 @@
-# Pewlett Hackard EMployee Database with SQL
+# Pewlett Hackard Employee Database with SQL
 
 ## Project Overview
 
@@ -13,10 +13,13 @@ There are two primary objectives in this analysis. The first is to determine the
 ## Results
 
 1. Within the first analysis deliverable, it was shown that a considerable amount of senior-level employees would be retiring soon. 25,916 Senior Engineers, 24,926 Senior Staff, 3,603 Technique Leaders, 2 Managers, and many more would be retiring soon. See below for full list.
+
   ![retirement_count](Resources/retirement_count.png)
+  
 2. A total of 72,458 employees will be retring soon.
 3. A total of 1,549 employees are eligible for mentorship
 4. There are no current managers eligible for the mentorship program. See below for the data.
+
   ![mentorship_count](Resources/mentorship_count.png)
 
 ## Summary
